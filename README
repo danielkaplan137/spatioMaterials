@@ -1,1 +1,3 @@
 Contents of this repository:
+1. In Sifted_mat_full.csv, we include all scanned materials that may realize spatiotemporal order by symmetry restrictions.
+2. In Sifted_mat.csv we include all scanned materials with available phonon dispersion, where the proper half-frequency parameteric resonance matching condiiton is met.
